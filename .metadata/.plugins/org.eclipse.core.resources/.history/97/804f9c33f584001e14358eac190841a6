@@ -1,0 +1,12 @@
+package controller;
+import model.CarroModel;
+
+public class CarroController {
+	public void salvarCarro(CarroModel carro) {
+
+	}
+	
+	public CarrModel buscarCarroPorPlaca(String placa) {
+        return null;
+    }
+}

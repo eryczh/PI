@@ -1,0 +1,18 @@
+package controller;
+import model.AbastecimentoModel;
+import java.util.List;
+
+public class AbastecimentoController {
+    
+	public void salvarAbastecimento(AbastecimentoModel abastecimento) {
+    }
+
+    public List<AbastecimentoModel> buscarAbastecimentosPorVeiculo(int idCarro) {
+        return null;
+    }
+
+    public List<AbastecimentoModel> buscarAbastecimentosPorPosto(int idPosto) {
+        return null;
+    }
+    
+}

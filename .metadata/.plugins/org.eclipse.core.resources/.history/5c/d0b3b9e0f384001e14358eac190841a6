@@ -1,0 +1,13 @@
+package model;
+
+public class PostoModel {
+    private int idPosto;
+    private String nomePosto;
+    private String cnpjPosto;
+    private String enderecoPosto;
+    private String cepPosto;
+    private String cidadePosto;
+    private String estadoPosto;
+
+    // Construtor, getters e setters
+}
